@@ -1,0 +1,21 @@
+Title – DECODE
+System – Commodore 64
+Author – Tom Rugg, Phil Feldman, and Western Systems Group
+Publication – More Than 32 BASIC Programs for the Commodore 64 Computer
+Page Scans – https://archive.org/details/More_Than_32_BASIC_Programs_for_the_Commodore_64/page/n155/mode/2up page 139-146 (IA page numbers 157-164)
+Preserved by – bdjeffyp
+Recommended Emulator – VICE
+
+Loading the Game –
+1. Open the Commodore 64 VICE emulator (x64sc.exe)
+2. Drag the decode.prg file onto the emulator window
+3. The game will load and the title screen appears
+
+Game Instructions –
+1. The title screen gives directions on how to play the game.
+2. At the prompt, enter a guess of four digits, using numbers 1-6, and press Enter.
+3. The game tells you how close you are to the correct answer with the following clues:
+  a. Black: this number is the number of digits in your guess that are the correct number in the correct position.
+  b. White: this number is the number of digits that are a correct number in the wrong position.
+4. Type S and Enter to get a summary of all guesses and the results so far in this session.
+5. Type Q and Enter to quit the game.

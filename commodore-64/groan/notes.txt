@@ -1,0 +1,23 @@
+Title – GROAN
+System – Commodore 64
+Author – Tom Rugg, Phil Feldman, and Western Systems Group
+Publication – More Than 32 BASIC Programs for the Commodore 64 Computer
+Page Scans – https://archive.org/details/More_Than_32_BASIC_Programs_for_the_Commodore_64/page/n171/mode/2up page 155-163 (IA page numbers 173-181)
+Preserved by – bdjeffyp
+Recommended Emulator – VICE
+
+Loading the Game –
+1. Open the Commodore 64 VICE emulator (x64sc.exe)
+2. Drag the groan.prg file onto the emulator window
+3. The game will load and the title screen appears
+
+Game Instructions –
+1. On the title screen, enter the target score that is needed to win the game.
+2. The game randomly chooses who goes first: the player or the computer.
+3. Dice are rolled.
+  a. If you got numbers on both dice, the results are added together.
+  b. You can then pass to the opponent and bank your score by pressing the P key.
+  c. You can risk getting more points and roll again by pressing the R key.
+  d. If you get a "GROAN" (the 1 on a die which appears as a frown face), your turn ends and all points for that round are lost.
+  e. If you get double "GROAN", the word "DESPAIR" is shown. All points banked are lost.
+4. Play continues back and forth until one player reaches the target score when they bank their points.
