@@ -1,0 +1,27 @@
+Title – ARGO
+System – Commodore 64
+Author – Tom Rugg, Phil Feldman, and Western Systems Group
+Publication – More Than 32 BASIC Programs for the Commodore 64 Computer
+Page Scans – https://archive.org/details/More_Than_32_BASIC_Programs_for_the_Commodore_64/page/n147/mode/2up page 131-138 (IA page numbers 149-156)
+Preserved by – bdjeffyp
+Recommended Emulator – VICE
+
+Loading the Game –
+1. Open the Commodore 64 VICE emulator (x64sc.exe)
+2. Drag the argo.prg file onto the emulator window
+3. The game will load and the title screen appears
+
+Game Instructions –
+1. On the title screen, press any key to start the game.
+2. After 13 letters are randomly chosen and displayed on the screen, enter 3 to 7 letter words.
+3. If you mistype a letter, use the left arrow key to go back.
+  a. The last letter doesn't disappear but it will be overwritten when a new letter is pressed.
+  b. Press the left arrow multiple times to clear the whole word and start over.
+4. When you have typed a word, press the Enter key.
+  a. If you used a letter not in the chosen set, "ILLEGAL" appears and a time penalty is suffered.
+  b. If you already used a word, "DUPLICATE" appears and a time penalty is suffered.
+  c. If you have six words of the same length, another word of that length will display "TOO MANY".
+  d. If it is a new word with valid letters, it appears below the letters.
+  e. Note that the game doesn't track if a word is an actual word or not.
+5. Repeat until 5000 ticks of the timer has elapsed.
+6. Once time is up, your score is presented.
