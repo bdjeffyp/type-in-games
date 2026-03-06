@@ -1,0 +1,25 @@
+Title – JOT
+System – Commodore 64
+Author – Tom Rugg, Phil Feldman, and Western Systems Group
+Publication – More Than 32 BASIC Programs for the Commodore 64 Computer
+Page Scans – https://archive.org/details/More_Than_32_BASIC_Programs_for_the_Commodore_64/page/n181/mode/2up page 165-175 (IA page numbers 183-192)
+Preserved by – bdjeffyp
+Recommended Emulator – VICE
+
+Loading the Game –
+1. Open the Commodore 64 VICE emulator (x64sc.exe)
+2. Drag the jot.prg file onto the emulator window
+3. The game will load and the title screen appears
+
+Game Instructions –
+1. On the title screen, the computer thinks of a secret word for you to guess and tells you to think of one as well.
+  a. Secret words are three letters in length and must be in the list that is on lines 5000-5520.
+2. Answer Y or N to the question about going first.
+3. Take turns with the computer making guesses of each other's secret word.
+  a. When a guess is made, the opposite player tells the guesser how many "hits" they have. A "hit" is when a letter of the guessed word is found in the secret word, order doesn't matter. Example: Computer guessed "WIN" and your word is "NIL"; your response would be 2 hits.
+  b. On your turn to guess, type S to view a summary of the guesses and hits both players have made thus far.
+  c. On your turn to guess, type Q to quit the game.
+  d. If the computer guesses your word correctly, type R to tell them they're right. If you guessed correctly, the computer will inform you of your victory immediately.
+  e. If you guess a word not on the list, the game will say "Illegal word".
+  f. If you provide illogical hits responses, the computer will eventually call you out.
+4. Once either player has won, the computer will ask if you want to play again. Type N to quit or Y to start over.
